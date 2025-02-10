@@ -1,4 +1,4 @@
-# Travelita
+# 🌎 Travelita
 A travel plan generator that creates personalized itineraries based on user preferences, alongside a landmark recognition system that classifies famous landmarks from images and provides their address and location on Google Maps.
 
 **kindly note** that this project is still under development 
