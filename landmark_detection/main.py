@@ -101,8 +101,7 @@ def run():
     if img_file is not None:
         images_dir = "./Uploaded_Images/"
         save_image_path = os.path.join(images_dir, img_file.name)
-        if not os.path.exists(images_dir):
-            os.makedirs(images_dir)
+        os.makedirs(images_dir, exist_ok=True)
         with open(save_image_path, "wb") as f:
             f.write(img_file.getbuffer())
 
