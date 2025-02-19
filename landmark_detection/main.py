@@ -99,7 +99,10 @@ def run():
     img_file = st.file_uploader("\U0001F4F7 Upload an Image", type=["png", "jpg", "jpeg"])
 
     if img_file is not None:
-        save_image_path = "./Uploaded_Images/" + img_file.name
+        images_dir = "./Uploaded_Images/"
+        save_image_path = os.path.join(images_dir, img_file.name)
+        if not os.path.exists(images_dir):
+            os.makedirs(images_dir)
         with open(save_image_path, "wb") as f:
             f.write(img_file.getbuffer())
 
