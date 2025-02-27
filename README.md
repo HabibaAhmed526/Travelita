@@ -1,33 +1,37 @@
 # 🌍 Travelita – AI-Powered Travel Assistant ✈️  
 
-
 ## 📌 About the Project  
 Travelita is an AI-powered travel assistant designed to **simplify trip planning** by generating **personalized itineraries**, enabling **interactive Q&A**, allowing **dynamic adjustments**, and **identifying landmarks from images** with real-time mapping.  
+
+## LinkedIn Post & Demo: [View here](https://www.linkedin.com/posts/sarasaadoun_nti-graduationproject-ai-activity-7298391919343132673-rvJt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACEiNzIBu0HtH04N5QhGJAU6Fto6clMTrVY)
 
 ## 🚀 Features  
 - **Personalized Itineraries** – Tailored travel plans based on user preferences.  
 - **Q&A with Your Plan** – Ask questions and get real-time insights.  
 - **Dynamic Adjustments** – Modify plans instantly with AI-powered optimization.  
 - **Landmark Recognition** – Identify landmarks from images and get location details.  
-- **Google Calendar Integration** – Sync plans directly to your schedule.  
+- **Email Integration** – Send plans via email effortlessly.
 
 ### Feature 1: Travel Plan Generator #1
-![image](https://github.com/user-attachments/assets/4e5bbf3f-315d-465d-96c8-faf723309820)
+![Travel Plan Generator #1](https://github.com/user-attachments/assets/4e5bbf3f-315d-465d-96c8-faf723309820)
 
 ### Feature 1: Travel Plan Generator #2
-![image](https://github.com/user-attachments/assets/c4779dd9-06d9-401e-8fc1-7ca87e170a6d)
+![Travel Plan Generator #2](https://github.com/user-attachments/assets/c4779dd9-06d9-401e-8fc1-7ca87e170a6d)
 
 ### Feature 2: Customization of your Travel Plan
-![image](https://github.com/user-attachments/assets/ba1b4e80-381f-439e-bbb4-f32c9ebec948)
+![Customization of your Travel Plan](https://github.com/user-attachments/assets/ba1b4e80-381f-439e-bbb4-f32c9ebec948)
 
 ### Feature 3: QnA with your Travel Plan
-![image](https://github.com/user-attachments/assets/2d5e311c-0eae-4c76-84e5-aa084eaa0ae9)
+![QnA with your Travel Plan](https://github.com/user-attachments/assets/2d5e311c-0eae-4c76-84e5-aa084eaa0ae9)
 
 ### Feature 4: Landmark Detection #1
-![image](https://github.com/user-attachments/assets/64d03169-1d97-4db2-bc94-b7251ea94e88)
+![Landmark Detection #1](https://github.com/user-attachments/assets/64d03169-1d97-4db2-bc94-b7251ea94e88)
 
 ### Feature 4: Landmark Detection #2
-![image](https://github.com/user-attachments/assets/be4bc3f7-53c0-4457-82d7-235feb43f1fd)
+![Landmark Detection #2](https://github.com/user-attachments/assets/be4bc3f7-53c0-4457-82d7-235feb43f1fd)
+
+### Feature 5: Chat with your Landmark
+![Chat with your Landmark](https://github.com/user-attachments/assets/fab67c15-6a15-436e-a71f-edd3377557cb)
 
 
 
